@@ -4,9 +4,10 @@
 #define N 4
 char* tea_varieties[N] = {
     "Earl Grey",
-    "Butter",
     "Gunpowder",
-    "Cloud"
+    "Cloud",
+    "Jasmine",
+    "Prince of Wales"
 }
 
 void main() {
